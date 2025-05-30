@@ -1,0 +1,15 @@
+#Ignore everything
+/*
+!/.gitignore
+# but include 
+!/fastfetch/
+!/fish/
+!/ghostty/
+!/gtk-3.0/
+!/gtk-4.0/
+!/gtkrc-2.0
+!/hypr/
+!/rofi
+!/waybar
+!/xfce4
+
