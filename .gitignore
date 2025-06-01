@@ -1,6 +1,10 @@
 #Ignore everything
 /*
 !/.gitignore
+!/hypr-reboot.sh
+!/hypr-poweroff.sh
+!/hypr-exit.sh
+
 # but include 
 !/fastfetch/
 !/fish/

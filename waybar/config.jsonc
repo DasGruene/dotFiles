@@ -90,19 +90,19 @@
 
   "custom/lock": {
   "format": "  ",
-  "on-click": "hyprctl dispatch exit",
+  "on-click": "~/.config/hypr-exit.sh",
   "tooltip": true,
   "tooltip-format": "Lock Screen"
   },
   "custom/reboot": {
     "format": "  ",
-    "on-click": "systemctl reboot",
+    "on-click": "~/.config/hypr-reboot.sh",
     "tooltip": true,
     "tooltip-format": "Reboot"
   },
   "custom/power": {
     "format": "  ",
-    "on-click": "systemctl poweroff",
+    "on-click": "~/.config/hypr-poweroff.sh",
     "tooltip": true,
     "tooltip-format": "Poweroff"
   },
