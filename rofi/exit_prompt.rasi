@@ -9,6 +9,10 @@
     urgent:                      #009698;
 }
 
+configuration {
+    matching: "fuzzy";
+}
+
 window {    
   transparency: "real";
   location: center;
