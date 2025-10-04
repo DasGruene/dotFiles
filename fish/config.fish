@@ -3,5 +3,6 @@ if status is-interactive
     set fish_greeting  ""
     fish_vi_key_bindings
     sleep 0.1; fastfetch 
+    eval (direnv hook fish)
 end
 

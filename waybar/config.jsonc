@@ -255,7 +255,7 @@
 		},
 		"on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
 		"tooltip": true,
-	  "scroll-step": 5
+	  "scroll-step": 1
   },
 
   "pulseaudio#input": {
