@@ -6,6 +6,7 @@
 !/hypr-exit.sh
 
 # but include 
+!/dunst/
 !/fastfetch/
 !/fish/
 !/ghostty/
