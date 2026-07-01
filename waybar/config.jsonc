@@ -22,7 +22,9 @@
     "custom/spacer1",
     "temperature",
     "custom/spacer1",
-		"memory#ram",
+		"custom/gpu",
+    "custom/spacer1",
+    "memory#ram",
     "custom/spacer1",
 		"memory#swap",
     "custom/spacer1",
@@ -143,6 +145,12 @@
 			"critical": 95
 		}
 	},
+  
+  "custom/gpu": {
+    "exec": "~/.config/waybar/gpu.sh",
+    "interval": 5,
+    "format": "{}"
+  },
 
 	"hyprland/language": {
 		"format": " {}",

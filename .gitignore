@@ -1,5 +1,6 @@
 #Ignore everything
 /*
+secrets/
 !/.gitignore
 !/hypr-reboot.sh
 !/hypr-poweroff.sh
